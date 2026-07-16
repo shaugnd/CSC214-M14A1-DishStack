@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'org.example.App'
+    mainClass = 'edu.csc214.dishstack.App'
 }
 
 tasks.named('test') {
@@ -48,3 +48,4 @@ tasks.named('test') {
 run {
   standardInput = System.in
 }
+

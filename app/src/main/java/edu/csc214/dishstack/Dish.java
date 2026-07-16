@@ -1,4 +1,4 @@
-package org.example;
+package edu.csc214.dishstack;
 
 public class Dish {
   public String description;
@@ -7,3 +7,4 @@ public class Dish {
     this.description = description;
   }
 }
+
